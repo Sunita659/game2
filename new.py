@@ -25,9 +25,10 @@ while True:
             pygame.quit()
             sys.exit()
     #decrement bgx to move the background
-    bgx=bgx-5
     
     # Add code to reset bgx to 0 after bgx becomes less then -1000
+    if<-1000
+    bgx=0
          
          
 
